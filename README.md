@@ -22,9 +22,9 @@ Skills: HTML / CSS / Bootstrap / JS / ReactJS / Firebase /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaruf641&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmaruf641)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmaruf641&show_icons=true&count_private=true)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmaruf641&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdmaruf641)  
 
