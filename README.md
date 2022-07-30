@@ -1,7 +1,7 @@
 ![Full-Stack Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFhp654GMvdLw/profile-displaybackgroundimage-shrink_200_800/0/1645124443093?e=1664409600&v=beta&t=ApGT2ajSOsOpJAPqwl6s_5cLIqbvmamfQ81Yfe2Qf6o)
 
 ## I'm Md Maruf
-#### Full-Stack Web Developer
+#### MERN Stack Web Developer
 
 I'm Md Maruf. I have been working as a professional web developer for more than 2 years. I am proficient in HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB. I have worked as a full-stack web developer on many projects.
 
