@@ -1,11 +1,11 @@
-![Full-Stack Web Developer](https://media.licdn.com/dms/image/C5616AQFhp654GMvdLw/profile-displaybackgroundimage-shrink_350_1400/0/1645124443093?e=1677715200&v=beta&t=sYzFSZAyDcqYVlX9bQlHkLT1J4WwvttlyjsaHcXXT4o)
+![Full-Stack Web Developer](https://media.licdn.com/dms/image/D5616AQGSrB3idd6TDA/profile-displaybackgroundimage-shrink_350_1400/0/1673978331868?e=1679529600&v=beta&t=Ioz6JLwxDgt-22o_OMjNPA93cWUjZ0wS6OYd0xtgXUc)
 
 ## I'm Md Maruf
-#### MERN Stack Web Developer
+#### Front-End Web Developer
 
-I'm Md Maruf. I have been working as a professional web developer for more than 2 years. I am proficient in HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB. I have worked as a full-stack web developer on many projects.
+I'm Md Maruf. I have been working as a professional web developer for more than 2 years. I am proficient in HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB. I have worked as a Front-End web developer on many projects and some MERN also.
 
-Skills: HTML / CSS / Bootstrap / JS / ReactJS / Firebase / 
+Skills: HTML / CSS / Bootstrap / JS / ReactJS / Firebase / MongoDB / 
 
 - 🔭 I’m currently working on Freelance Marketplace 
 - 🌱 I’m currently learning JavaScript 
