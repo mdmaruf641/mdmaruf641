@@ -1,4 +1,4 @@
-![Full-Stack Web Developer](https://media.licdn.com/dms/image/D5616AQGSrB3idd6TDA/profile-displaybackgroundimage-shrink_350_1400/0/1673978331868?e=1688601600&v=beta&t=X_2y0ON6iXgCPxCKF7Pt3X6SfHXM-8h6IU3jfvutj_s)
+![Full-Stack Web Developer](https://media.licdn.com/dms/image/D5616AQGSrB3idd6TDA/profile-displaybackgroundimage-shrink_350_1400/0/1673978331868?e=1696464000&v=beta&t=f9h8tmz3IDlYVj_EmWFQs1ZuF2igps-yXvl6acHa27s)
 
 ## I'm Md Maruf
 #### Front-End Web Developer
@@ -9,7 +9,7 @@ Skills: HTML / CSS / Bootstrap / JS / ReactJS / Firebase / MongoDB /
 
 - 🔭 I’m currently working on Freelance Marketplace 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Design and Development 
 - 📫 How to reach me: https://www.linkedin.com/in/mdmaruf6416 
 
